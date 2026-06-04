@@ -12,7 +12,7 @@ Hey, my name is Tim and I'm an IT Support Technician who's currently studying fo
 
 - <b>CompTIA A+</b>
   - I finished the Codecademy CompTIA A+ 1201 course in May of 2026. ✅
-  - Currently, studying the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1">CBTNuggets Comptia A+ course</a>. 🛠️
+  - Currently studying the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1">CBTNuggets Comptia A+ course</a>. 🛠️
   - After, I plan on taking the TotalSem and Jason Dion 1201 courses on Udemy.
   - Before the test, I am going to do the practice tests by Professor Messer.
  
