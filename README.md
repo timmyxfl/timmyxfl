@@ -1,26 +1,26 @@
-<h1>Tim Loveland <br/><a href="https://github.com/timmyxfl" target="_blank">IT Learner</a>, <a href="https://www.linkedin.com/in/timloveland/" target="_blank">IT Support Technician</a>, <a href="https://www.youtube.com/@timmyxfl" target="_blank">Musician</a></h1>
+<h1>Tim Loveland <br/><a href="https://github.com/timmyxfl">IT Learner</a>, <a href="https://www.linkedin.com/in/timothy-loveland/">IT Support Technician</a>, <a href="https://www.youtube.com/@timmyxfl">Musician</a></h1>
 
-Hey, my name is Tim and I'm an IT Support Technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/" target="_blank">CompTIA A+ exam</a> and looking to grow in the IT field. I plan to use this page to document my learning.
+Hey, my name is Tim and I'm an IT Support Technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ exam</a> and looking to grow in the IT field. I plan to use this page to document my learning.
 
 <h2>IT Projects</h2>
 
 - <b>Practicing with nslookup and ping commands</b>
   - [Medium Blog](https://medium.com/@timlovelandcyber/practice-with-nslookup-and-ping-c269f1ee6d91)
-  - [Github Project](https://github.com/joshmadakor1/nslookupandpingpractice)
+  - Github Project (Coming Soon)
  
 <h2>Learning Path</h2>
 
 - <b>CompTIA A+</b>
   - I finished the Codecademy CompTIA A+ 1201 course in May of 2026. ✅
-  - Currently, studying the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1" target="_blank">CBTNuggets Comptia A+ course</a>. 🛠️
+  - Currently, studying the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1">CBTNuggets Comptia A+ course</a>. 🛠️
   - After, I plan on taking the TotalSem and Jason Dion 1201 courses on Udemy.
   - Before the test, I am going to do the practice tests by Professor Messer.
  
 - <b>Future Course Progression</b>
-  - I plan on taking the <a href="https://tryhackme.com/certification/pre-security" target="_blank">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/" target="_blank">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
+  - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
   - After these certifications, I plan on doing my first homelabs with Active Directory, Windows Server, Entra ID, Microsoft 365, and Microsoft Intune.
-  - I want to document these labs here on Github and some of them on my <a href="https://medium.com/@timlovelandcyber" target="_blank">Medium page</a>.
-  - Also, I might check out the training on <a href="https://madhat.io/pages/roadmap" target="_blank">madhat.io</a>, depending on how long it takes me to do the above.
+  - I want to document these labs here on Github and some of them on my <a href="https://medium.com/@timlovelandcyber">Medium page</a>.
+  - Also, I might check out the training on <a href="https://madhat.io/pages/roadmap">madhat.io</a>, depending on how long it takes me to do the above.
  
 <h2>Certifications</h2>
 
@@ -34,5 +34,5 @@ Hey, my name is Tim and I'm an IT Support Technician who's currently studying fo
 
 <h2>Connect with me:</h2>
 
-<a href="https://linkedin.com/in/timothy-loveland" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@timmyxfl" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube&logoSize=auto" /></a>
+<a href="https://linkedin.com/in/timothy-loveland"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@timmyxfl"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube&logoSize=auto" /></a>
