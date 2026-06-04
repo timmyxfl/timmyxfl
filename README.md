@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1>Tim Loveland <br/><a href="https://github.com/timmyxfl">IT Learner</a>, <a href="https://www.linkedin.com/in/timloveland/">IT Support Technician</a>, <a href="https://www.youtube.com/@timmyxfl">Musician</a></h1>
 
-<!--
-**timmyxfl/timmyxfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, my name is Tim and I'm an IT Support Technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ exam</a> and looking to grow in the IT field.<br>
+I plan to use this page to document my learning.
 
-Here are some ideas to get you started:
+<h2>IT Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Practicing with nslookup and ping commands</b>
+  - [Medium Blog](https://medium.com/@timlovelandcyber/practice-with-nslookup-and-ping-c269f1ee6d91)
+  - [Github Project](https://github.com/joshmadakor1/nslookupandpingpractice)
+ 
+<h2>Learning Path</h2>
+
+- <b>CompTIA A+</b>
+  - I finished the Codecademy CompTIA A+ 1201 course in May of 2026. ✅
+  - Currently, studying the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1">CBTNuggets Comptia A+ course</a>. 🛠️
+  - After, I plan on taking the TotalSem and Jason Dion 1201 courses on Udemy.
+  - Before the test, I am going to do the practice tests by Professor Messer.
+ 
+- <b>Future Course Progression</b>
+  - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
+  - After these certifications, I plan on doing my first homelabs with Active Directory, Windows Server, Entra ID, Microsoft 365, and Microsoft Intune.
+  - I want to document these labs here on Github and some of them on my <a href="https://medium.com/@timlovelandcyber">Medium page</a>.
+  - Also, I might check out the training on <a href="https://madhat.io/pages/roadmap">madhat.io</a>, depending on how long it takes me to do the above.
+ 
+<h2>Certifications</h2>
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/1LK3FIR8MB3M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+
+
+<h2>YouTube Videos</h2>
+
+- [Future Home Labs](https://www.youtube.com/@timmyxfl)
+
+
+<h2>Connect with me:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-loveland)
+<a href="https://www.youtube.com/@timmyxfl"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube&logoSize=auto" /></a>
