@@ -5,8 +5,7 @@ Hey, my name is Tim and I'm an IT Support Technician who's currently studying fo
 <h2>IT Projects</h2>
 
 - <b>Practicing with nslookup and ping commands</b>
-  - [Medium Blog](https://medium.com/@timlovelandcyber/practice-with-nslookup-and-ping-c269f1ee6d91)
-  - Github Project (Coming Soon)
+  - [Medium Blog](https://medium.com/@timlovelandcyber/practice-with-nslookup-and-ping-c269f1ee6d91) / Github Project (Coming Soon)
  
 <h2>Learning Path</h2>
 
