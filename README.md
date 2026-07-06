@@ -6,6 +6,9 @@ Hey, my name is Tim and I'm an IT Support Technician who's currently studying fo
 
 - <b>Practicing with nslookup and ping commands</b>
   - [Medium Blog](https://medium.com/@timlovelandcyber/practice-with-nslookup-and-ping-c269f1ee6d91) / <a href="https://www.github.com/timmyxfl/nslookup_ping_practice">Github Project</a>
+
+- <b>RAID Disk Management Practice</b>
+  - <a href="https://github.com/timmyxfl/RAID_Disk_Management_Practice_-Mini-Project-">Github Project</a>
  
 <h2>Learning Path</h2>
 
