@@ -9,6 +9,9 @@ Hey, my name is Tim and I'm an IT Support Technician who's currently studying fo
 
 - <b>RAID Disk Management Practice</b>
   - <a href="https://github.com/timmyxfl/RAID_Disk_Management_Practice_-Mini-Project-">Github Project</a>
+
+- <b>Network Troubleshooting - Change IP Configuration</b>
+  - <a href="https://github.com/timmyxfl/IP-Configuration-Practice">Github Project</a>
  
 <h2>Learning Path</h2>
 
