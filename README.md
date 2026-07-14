@@ -1,6 +1,6 @@
 <h1>Tim Loveland <br/><a href="https://github.com/timmyxfl">IT Learner</a>, <a href="https://www.linkedin.com/in/timothy-loveland/">IT Support Technician</a>, <a href="https://www.youtube.com/@timmyxfl">Musician</a></h1>
 
-Hey, my name is Tim and I'm an IT Support Technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ exam</a> and looking to grow in the IT field. I plan to use this page to document my learning.
+Hey, my name is Tim and I'm an IT support technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ exam</a> and looking to grow in the IT field. I plan to use this page to document my learning.
 
 <h2>IT Projects</h2>
 
