@@ -21,7 +21,7 @@ Hey, my name is Tim and I'm an IT support technician who's currently studying fo
     - <a href="https://imgur.com/gallery/cbtnuggets-completion-jN5E96A">Imgur link to certificate of completion.</a> 📜
   - Just completed the <a href="https://www.udemy.com/course/comptia-aplus-core-1/">TotalSem course</a> on Udemy for the ComptIA A+ exam on August 8th. ✅
     - <a href="https://imgur.com/gallery/totalsem-comptia-udemy-course-I3urQvP#OiQv5Bp">Imgur link to certificate of completion.</a> 📜
-  - Currently studying the Jason Dion 1201 course on Udemy. 🛠️
+  - Currently studying the <a href="https://www.udemy.com/course/comptia-a-core-1/">Jason Dion 1201 course</a> on Udemy. 🛠️
   - Next, I'm going to do hands on labs on the <a href="https://labex.io/learn/comptia">LabEx platform</a>.
   - Before the exam, I am going to do the practice tests by Professor Messer.
  
