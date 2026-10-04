@@ -23,21 +23,17 @@ Hey, my name is Tim and I'm an IT support technician who's currently studying fo
     - <a href="https://imgur.com/gallery/totalsem-comptia-udemy-course-I3urQvP#OiQv5Bp">Imgur link to certificate of completion.</a> 📜
   - The day before my 1201 Core 1 exam, I completed the <a href="https://www.udemy.com/course/comptia-a-core-1/">Jason Dion 1201 course</a> on Udemy. ✅
   - On October 3rd, 2026, I completed the <a href="https://www.linkedin.com/posts/timothy-loveland_today-i-passed-my-comptia-a-1201-core-1-share-7512218452560855040-GdYO/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512218454058258432&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAADBfJU8BB9GMQwgsAlGO1r9aAmntYztzzzA">CompTIA A+ 1201 Core 1 Exam</a>. ⭐
- <br>
  
-  - <b>For the 1201 Core 2 exam, I plan on taking these courses:</b>
-    -   <a href="https://www.codecademy.com/learn/ext-paths/220-1202-comptia-a-core-2">Codecademy's Core 2 course</a>.
+  - <b>For the 1202 Core 2 exam, I plan on taking these courses:</b>
+    -   <a href="https://www.codecademy.com/learn/ext-paths/220-1202-comptia-a-core-2">Codecademy's Core 2 course</a>. 🛠️
     -   <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-2">CBTNugget's Core 2 course</a>.
     -   <a href="https://www.udemy.com/course/comptia-aplus-core-2/">TotalSem's Udemy course</a>.
     -   <a href="https://www.udemy.com/course/comptia-a-core-2/">Jason Dion's Udemy course</a>.
- <br>
-        - After these courses, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> for the CompTIA A+.
- <br>
-        - And finally, do the <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer for the Core 2 exam.
- <br>
+    -   After these courses, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> and <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer.
+ 
 - <b>Future Course Progression</b>
   - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
-  - After these certifications, I plan on doing my first homelabs with Active Directory, Windows Server, Entra ID, Microsoft 365, and Microsoft Intune.
+  - After these certifications, I plan on building my first homelabs with Active Directory, Windows Server, Entra ID, Microsoft 365, and Microsoft Intune.
   - I want to document these labs here on Github and some of them on my <a href="https://medium.com/@timlovelandcyber">Medium page</a>.
   - Also, I might check out the training on <a href="https://madhat.io/pages/roadmap">madhat.io</a>, depending on how long it takes me to do the above.
  
