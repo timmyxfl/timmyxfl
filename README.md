@@ -1,6 +1,6 @@
 <h1>Tim Loveland <br/><a href="https://github.com/timmyxfl">IT Learner</a>, <a href="https://www.linkedin.com/in/timothy-loveland/">IT Support Technician</a>, <a href="https://www.youtube.com/@timmyxfl">Musician</a></h1>
 
-Hey, my name is Tim and I'm an IT support technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ exam</a> and looking to grow in the IT field. I plan to use this page to document my learning.
+Hey, my name is Tim and I'm an IT support technician who's currently studying for the <a href="https://www.comptia.org/en-us/certifications/a/core-1-v15/">CompTIA A+ certification</a> and looking to grow in the IT field. I plan to use this page to document my learning. On October 3rd, 2026, I passed the 1201 Core 1 exam for the CompTIA A+ certification.
 
 <h2>IT Projects</h2>
 
@@ -19,11 +19,10 @@ Hey, my name is Tim and I'm an IT support technician who's currently studying fo
   - I finished the Codecademy CompTIA A+ 1201 course in May of 2026. ✅
   - I also completed the <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-1">CBTNuggets Comptia A+ course</a> this July. ✅
     - <a href="https://imgur.com/gallery/cbtnuggets-completion-jN5E96A">Imgur link to certificate of completion.</a> 📜
-  - Just completed the <a href="https://www.udemy.com/course/comptia-aplus-core-1/">TotalSem course</a> on Udemy for the ComptIA A+ exam on August 8th. ✅
+  - After, I completed the <a href="https://www.udemy.com/course/comptia-aplus-core-1/">TotalSem course</a> on Udemy for the ComptIA A+ exam on August 8th. ✅
     - <a href="https://imgur.com/gallery/totalsem-comptia-udemy-course-I3urQvP#OiQv5Bp">Imgur link to certificate of completion.</a> 📜
-  - Currently studying the <a href="https://www.udemy.com/course/comptia-a-core-1/">Jason Dion 1201 course</a> on Udemy. 🛠️
-  - Next, I'm going to do hands on labs on the <a href="https://labex.io/learn/comptia">LabEx platform</a>.
-  - Before the exam, I am going to do the practice tests by Professor Messer.
+  - The day before my 1201 Core 1 exam, I completed the <a href="https://www.udemy.com/course/comptia-a-core-1/">Jason Dion 1201 course</a> on Udemy. ✅
+  - On October 3rd, 2026, I completed the <a href="https://www.linkedin.com/posts/timothy-loveland_today-i-passed-my-comptia-a-1201-core-1-share-7512218452560855040-GdYO/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512218454058258432&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAADBfJU8BB9GMQwgsAlGO1r9aAmntYztzzzA">CompTIA A+ 1201 Core 1 Exam</a>.
  
 - <b>Future Course Progression</b>
   - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
