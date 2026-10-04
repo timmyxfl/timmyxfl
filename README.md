@@ -31,9 +31,11 @@ Hey, my name is Tim and I'm an IT support technician who's currently studying fo
     -   <a href="https://www.udemy.com/course/comptia-aplus-core-2/">TotalSem's Udemy course</a>.
     -   <a href="https://www.udemy.com/course/comptia-a-core-2/">Jason Dion's Udemy course</a>.
  <br>
-    -   After these course, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> for the CompTIA A+.
-    -   And finally, do the <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer for the Core 2 exam.
- 
+      -   After these courses, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> for the CompTIA A+.
+    -   <br>
+      -   And finally, do the <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer for the Core 2 exam.
+ <br>
+ <br>
 - <b>Future Course Progression</b>
   - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
   - After these certifications, I plan on doing my first homelabs with Active Directory, Windows Server, Entra ID, Microsoft 365, and Microsoft Intune.
