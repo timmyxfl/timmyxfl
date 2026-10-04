@@ -25,11 +25,11 @@ Hey, my name is Tim and I'm an IT support technician who's currently studying fo
   - On October 3rd, 2026, I completed the <a href="https://www.linkedin.com/posts/timothy-loveland_today-i-passed-my-comptia-a-1201-core-1-share-7512218452560855040-GdYO/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7512218454058258432&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAADBfJU8BB9GMQwgsAlGO1r9aAmntYztzzzA">CompTIA A+ 1201 Core 1 Exam</a>. ⭐
  
   - <b>For the 1202 Core 2 exam, I plan on taking these courses:</b>
-    -   <a href="https://www.codecademy.com/learn/ext-paths/220-1202-comptia-a-core-2">Codecademy's Core 2 course</a>. 🛠️
-    -   <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-2">CBTNugget's Core 2 course</a>.
-    -   <a href="https://www.udemy.com/course/comptia-aplus-core-2/">TotalSem's Udemy course</a>.
-    -   <a href="https://www.udemy.com/course/comptia-a-core-2/">Jason Dion's Udemy course</a>.
-    -   After these courses, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> and <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer.
+    - <a href="https://www.codecademy.com/learn/ext-paths/220-1202-comptia-a-core-2">Codecademy's Core 2 course</a>. 🛠️
+    - <a href="https://www.cbtnuggets.com/it-training/comptia/a-plus-core-2">CBTNugget's Core 2 course</a>.
+    - <a href="https://www.udemy.com/course/comptia-aplus-core-2/">TotalSem's Udemy course</a>.
+    - <a href="https://www.udemy.com/course/comptia-a-core-2/">Jason Dion's Udemy course</a>.
+    - After these courses, I plan on doing the <a href="https://labex.io/courses/comptia-a-plus-training-labs">LabEx labs</a> and <a href="https://www.professormesser.com/220-1202-success-bundle/">practice tests</a> by Professor Messer.
  
 - <b>Future Course Progression</b>
   - I plan on taking the <a href="https://tryhackme.com/certification/pre-security">SEC0 certification by TryHackMe</a> and also the <a href="https://certifications.tcm-sec.com/phda/">Practical Help Desk Associate by TCM Security</a> for practical hands-on experience.
